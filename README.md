@@ -1,14 +1,20 @@
 # HTML CSS Git Challenge: Code Refactor
 
-## PROJECT DESCRIPTION
+## PROJECT DESCRIPTION:
+
 ---
-* Refactor an existing web-site to make it more accessible.
-* Rework CSS to make it more efficient by consolidating CSS selectors and properties.
-* Organize code to follow the semantic structure of HTML elements.
-* Add comments before each element or sections. 
+
+- Refactor an existing web-site to make it more accessible.
+- Rework CSS to make it more efficient by consolidating CSS selectors and properties.
+- Organize code to follow the semantic structure of HTML elements.
+- Add comments before each element or sections.
+
 ---
-### ACCEPTANCE CRITERIA
+
+### ACCEPTANCE CRITERIA:
+
 ---
+
 ```GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -21,16 +27,21 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
----
-#### SCREENSHOTS
----
-![Horiseon](assets\images\horiseon_screen_shot.png)
+
 ---
 
-##### LINKS:
+#### SCREENSHOTS:
+
 ---
-[Github_Repo](https://github.com/healicalslime419/ut-horieson-pj-cha-1 "HTML CSS Git Challenge: Code Refactor")
+
+## ![Horiseon](https://github.com/healicalslime419/ut-horieson-pj-cha-1/blob/main/assets/images/horiseon_screen_shot.png)
+
+#### LINKS:
+
 ---
+
+## [Github_Repo](https://github.com/healicalslime419/ut-horieson-pj-cha-1 "HTML CSS Git Challenge: Code Refactor")
+
 ---
-[Website](https://healicalslime419.github.io/ut-horieson-pj-cha-1/#social-media-marketing "Horiseon")
----
+
+## [Website](https://healicalslime419.github.io/ut-horieson-pj-cha-1/#social-media-marketing "Horiseon")
